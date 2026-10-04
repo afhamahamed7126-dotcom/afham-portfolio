@@ -1,0 +1,306 @@
+/* ============================================================
+   AFHAM AHAMED — RESPONSIVE ADAPTATIONS
+   Supports: 320px, 375px, 425px, 768px, 1024px, 1280px, 1440px, 1920px
+   ============================================================ */
+
+/* 1440px+ (Ultra Wide / 2K Displays) */
+@media (min-width: 1440px) {
+  :root {
+    --container-max: 1360px;
+  }
+}
+
+/* Max 1200px */
+@media (max-width: 1200px) {
+  .hero-grid {
+    gap: 36px;
+  }
+  .about-grid {
+    gap: 40px;
+  }
+  .career-subpanels {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Max 992px (Tablets & Medium Screens) */
+@media (max-width: 992px) {
+  section {
+    padding: 80px 0;
+  }
+
+  .nav-menu {
+    position: fixed;
+    top: var(--nav-height);
+    left: 0;
+    width: 100%;
+    background: var(--bg-surface);
+    border-bottom: 1px solid var(--border-subtle);
+    padding: 24px 20px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    box-shadow: var(--shadow-lg);
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    transition: clip-path 0.35s ease-in-out;
+  }
+
+  .nav-menu.open {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+
+  .nav-link {
+    width: 100%;
+    padding: 12px 16px;
+    font-size: 1.05rem;
+  }
+
+  .nav-cta-btn {
+    display: none;
+  }
+
+  .hamburger {
+    display: block;
+  }
+
+  .hero-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 48px;
+  }
+
+  .hero-content {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .hero-typewriter-wrap {
+    justify-content: center;
+  }
+
+  .hero-cta-group {
+    justify-content: center;
+  }
+
+  .hero-social-strip {
+    justify-content: center;
+  }
+
+  .hero-visual {
+    order: -1;
+  }
+
+  .hero-image-card {
+    max-width: 340px;
+    margin: 0 auto;
+  }
+
+  .badge-top-right {
+    top: -10px;
+    right: -10px;
+  }
+
+  .badge-bottom-left {
+    bottom: -10px;
+    left: -10px;
+  }
+
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .goals-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .timeline-section-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .footer-top {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+}
+
+/* Max 768px (Tablets & Large Handhelds) */
+@media (max-width: 768px) {
+  :root {
+    --nav-height: 68px;
+  }
+
+  section {
+    padding: 64px 0;
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+
+  .projects-filter-bar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .projects-search-wrap {
+    width: 100%;
+  }
+
+  .filter-btn-group {
+    justify-content: center;
+  }
+
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .github-repos-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cards-slider-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .modal-container {
+    max-height: 95vh;
+    border-radius: var(--radius-md);
+  }
+
+  .modal-content-body {
+    padding: 24px;
+  }
+
+  .modal-main-preview {
+    height: 240px;
+  }
+
+  .features-list-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .lightbox-prev {
+    left: 10px;
+  }
+
+  .lightbox-next {
+    right: 10px;
+  }
+
+  .lightbox-btn {
+    width: 42px;
+    height: 42px;
+    font-size: 1.1rem;
+    background: rgba(11, 19, 37, 0.9);
+  }
+}
+
+/* Max 480px (Mobile Phones: 375px & 425px) */
+@media (max-width: 480px) {
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .hero-title {
+    font-size: 2.3rem;
+  }
+
+  .hero-cta-group {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .hero-cta-group .btn {
+    width: 100%;
+  }
+
+  .floating-stat-badge {
+    padding: 8px 12px;
+    gap: 8px;
+  }
+
+  .floating-stat-badge .stat-icon {
+    width: 32px;
+    height: 32px;
+    font-size: 0.95rem;
+  }
+
+  .floating-stat-badge h4 {
+    font-size: 0.82rem;
+  }
+
+  .about-quick-specs {
+    grid-template-columns: 1fr;
+  }
+
+  .about-highlights-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .languages-strip {
+    padding: 20px;
+  }
+
+  .lang-items-wrap {
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+  }
+
+  .contact-form-card {
+    padding: 24px 18px;
+  }
+
+  .floating-contact-dock {
+    bottom: 16px;
+    right: 16px;
+  }
+
+  .floating-btn {
+    width: 44px;
+    height: 44px;
+    font-size: 1.15rem;
+  }
+}
+
+/* 320px (Ultra-compact mobile displays) */
+@media (max-width: 340px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-typewriter-wrap {
+    font-size: 1.1rem;
+  }
+
+  .nav-brand {
+    font-size: 1.15rem;
+  }
+
+  .nav-brand-symbol {
+    width: 32px;
+    height: 32px;
+    font-size: 0.95rem;
+  }
+
+  .project-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .project-actions .btn {
+    width: 100%;
+  }
+}

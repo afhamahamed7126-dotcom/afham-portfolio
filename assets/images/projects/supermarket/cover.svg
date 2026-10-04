@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1128"/>
+      <stop offset="50%" stop-color="#101f42"/>
+      <stop offset="100%" stop-color="#060c1d"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <rect x="60" y="60" width="1080" height="580" rx="16" fill="#0d1b38" stroke="#1e293b" stroke-width="2"/>
+  <rect x="60" y="60" width="1080" height="50" rx="16" fill="#091326"/>
+  <circle cx="95" cy="85" r="7" fill="#ef4444"/>
+  <circle cx="120" cy="85" r="7" fill="#f59e0b"/>
+  <circle cx="145" cy="85" r="7" fill="#10b981"/>
+  <text x="600" y="92" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Smart Supermarket Management System - C# .NET / SQL Server</text>
+  <rect x="60" y="110" width="220" height="530" fill="#080f1e"/>
+  <rect x="80" y="140" width="180" height="36" rx="8" fill="#1e293b"/>
+  <text x="100" y="163" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">Products Catalog</text>
+  <text x="100" y="210" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="14">Categories</text>
+  <text x="100" y="255" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="14">Sellers &amp; Staff</text>
+  <text x="100" y="300" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="14">Billing / POS</text>
+  <text x="100" y="345" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="14">Sales Analytics</text>
+  <rect x="310" y="140" width="790" height="120" rx="12" fill="#14244d" stroke="#1e3a8a" stroke-width="1.5"/>
+  <text x="340" y="185" fill="#ffffff" font-family="system-ui, sans-serif" font-size="22" font-weight="bold">Supermarket Inventory &amp; Point of Sale</text>
+  <text x="340" y="220" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="14">Automated billing, stock management, seller auditing, and SQL database transactions.</text>
+  <rect x="310" y="280" width="790" height="320" rx="10" fill="#091326" stroke="#1e293b" stroke-width="1"/>
+  <rect x="310" y="280" width="790" height="40" fill="#0d1b38"/>
+  <text x="330" y="306" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">PROD ID</text>
+  <text x="440" y="306" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">ITEM NAME</text>
+  <text x="640" y="306" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">CATEGORY</text>
+  <text x="800" y="306" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">STOCK</text>
+  <text x="940" y="306" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">PRICE (LKR)</text>
+  <text x="330" y="350" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="13">#PRD-101</text>
+  <text x="440" y="350" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="13">Basmati Rice 5kg</text>
+  <text x="640" y="350" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="13">Groceries</text>
+  <text x="800" y="350" fill="#10b981" font-family="system-ui, sans-serif" font-size="13">142 Units</text>
+  <text x="940" y="350" fill="#00f2fe" font-family="system-ui, sans-serif" font-size="13">Rs. 2,450.00</text>
+  <text x="330" y="400" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="13">#PRD-102</text>
+  <text x="440" y="400" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="13">Dairy Milk Chocolate</text>
+  <text x="640" y="400" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="13">Confectionery</text>
+  <text x="800" y="400" fill="#10b981" font-family="system-ui, sans-serif" font-size="13">85 Units</text>
+  <text x="940" y="400" fill="#00f2fe" font-family="system-ui, sans-serif" font-size="13">Rs. 480.00</text>
+  <text x="330" y="450" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="13">#PRD-103</text>
+  <text x="440" y="450" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="13">Ceylon Black Tea 400g</text>
+  <text x="640" y="450" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="13">Beverages</text>
+  <text x="800" y="450" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="13">24 Units</text>
+  <text x="940" y="450" fill="#00f2fe" font-family="system-ui, sans-serif" font-size="13">Rs. 890.00</text>
+  <rect x="910" y="535" width="160" height="38" rx="6" fill="url(#cyanGrad)"/>
+  <text x="990" y="560" text-anchor="middle" fill="#040d1a" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">+ NEW BILL</text>
+</svg>

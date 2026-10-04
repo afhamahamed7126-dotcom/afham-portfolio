@@ -1,0 +1,305 @@
+{
+  "personal": {
+    "fullName": "ABDUL NAZAR AFHAM AHAMED",
+    "displayName": "AFHAM AHAMED",
+    "heroHeading": "Hi, I'm Afham Ahamed",
+    "titles": [
+      "Web Developer",
+      "Software Developer",
+      "AI Enthusiast"
+    ],
+    "birthDate": "2004-02-21",
+    "location": "Sammanthurai, Eastern Province, Sri Lanka",
+    "country": "Sri Lanka",
+    "email": "afhamahamed7126@gmail.com",
+    "phone": "0763293539",
+    "whatsapp": "+94763293539",
+    "whatsappFormatted": "+94 763293539",
+    "whatsappDefaultMessage": "Hello Afham, I visited your portfolio and would like to discuss a project.",
+    "tagline": "Building Ideas. Creating Solutions. Growing with Technology.",
+    "profileImage": "assets/images/profile.jpeg",
+    "cvPath": "assets/documents/Afham_Ahamed_CV.pdf"
+  },
+  "socials": {
+    "github": {
+      "url": "https://github.com/afhamahamed7126-dotcom",
+      "username": "afhamahamed7126-dotcom",
+      "label": "GitHub"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/afham-ahamed-04bbba343",
+      "label": "LinkedIn"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/itz__afham",
+      "label": "Instagram"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/share/1C4s4Cu6iM/",
+      "label": "Facebook"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/@afhamahamed9181",
+      "label": "YouTube"
+    },
+    "whatsapp": {
+      "url": "https://wa.me/94763293539?text=Hello%20Afham%2C%20I%20visited%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20project.",
+      "label": "WhatsApp"
+    },
+    "email": {
+      "url": "mailto:afhamahamed7126@gmail.com",
+      "label": "Email"
+    }
+  },
+  "about": {
+    "bioParagraphs": [
+      "I am a creative IT professional from Sammanthurai, Eastern Province, Sri Lanka. I have completed my Higher National Diploma in Information Technology at SLIATE Sammanthurai and I am currently gaining practical experience as a trainee at Brainiacs.",
+      "I am passionate about web development, software development, graphic design, and creative digital solutions. I enjoy creating modern websites, attractive digital designs, professional branding materials, and user-friendly digital experiences.",
+      "Before completing my HNDIT, I successfully completed the NVQ Level 4 qualification in Information Technology, which provided me with a strong foundation in practical IT systems and technical skills.",
+      "I have also completed a Diploma / English Course at the British Council Sri Lanka, which has supported my communication and professional collaboration skills.",
+      "I continuously improve my technical and creative abilities and enjoy turning ideas and real-world problems into practical, intuitive and professional digital solutions."
+    ],
+    "highlights": [
+      {
+        "title": "HNDIT Graduate",
+        "description": "SLIATE Sammanthurai focus on software & web development",
+        "icon": "graduation-cap"
+      },
+      {
+        "title": "Practical Experience",
+        "description": "Trainee at Brainiacs working with modern digital solutions",
+        "icon": "laptop-code"
+      },
+      {
+        "title": "Technical Foundation",
+        "description": "NVQ Level 4 in IT & British Council English Certification",
+        "icon": "certificate"
+      },
+      {
+        "title": "Creative Mindset",
+        "description": "Fusing engineering logic with intuitive visual UI design",
+        "icon": "palette"
+      }
+    ]
+  },
+  "careerGoals": {
+    "whyIT": "I chose Information Technology because I am interested in technology, software development, and creating practical solutions to real-world problems. I enjoy learning new technologies, building applications, solving problems, and continuously improving my technical skills. I believe IT provides opportunities to continuously learn, innovate, and build a meaningful professional career.",
+    "currentGoal": "My current goal is to strengthen my technical and professional skills through practical experience in software and web development. I want to work on real-world projects, improve my programming knowledge, understand modern development practices, and grow as an IT professional.",
+    "futureGoal": "My long-term goal is to become a skilled Software Developer and AI-focused technology professional. I want to build innovative and useful software solutions, gain professional industry experience, and continuously develop my knowledge in modern technologies and Artificial Intelligence.",
+    "areasOfInterest": [
+      "Web Development",
+      "Software Development",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Database Systems",
+      "Mobile Application Development",
+      "AI-Powered Applications",
+      "Graphic Design",
+      "Creative Digital Solutions"
+    ],
+    "whatMakesMeDifferent": "I continuously learn new technologies and enjoy combining software development, creative design and AI tools to create practical digital solutions.",
+    "futureTechToLearn": [
+      "Advanced Artificial Intelligence",
+      "Machine Learning",
+      "Advanced Web Development",
+      "Cloud Computing",
+      "Modern Software Development Technologies"
+    ],
+    "threeToFiveYearGoal": "I see myself as a professional Software Developer with strong experience in web development, software systems and Artificial Intelligence, working on real-world projects and building innovative digital solutions."
+  },
+  "strongQualities": [
+    "Hardworking",
+    "Quick Learner",
+    "Problem Solving",
+    "Creative Thinking",
+    "Continuous Learning"
+  ],
+  "languages": [
+    {
+      "name": "Tamil",
+      "proficiency": "Native",
+      "badge": "Native"
+    },
+    {
+      "name": "English",
+      "proficiency": "Intermediate",
+      "badge": "British Council Trained"
+    },
+    {
+      "name": "Sinhala",
+      "proficiency": "Basic",
+      "badge": "Conversational Basic"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "qualification": "Higher National Diploma in Information Technology (HNDIT)",
+      "institute": "Sri Lanka Institute of Advanced Technological Education (SLIATE)",
+      "campus": "Advanced Technological Institute (ATI), Sammanthurai",
+      "location": "Sammanthurai, Sri Lanka",
+      "startYear": "2024",
+      "endYear": "2026",
+      "description": "Higher National Diploma in Information Technology with a focus on software development, web technologies, databases, programming and practical IT skills.",
+      "result": "N/A"
+    },
+    {
+      "id": "edu-2",
+      "qualification": "English Course",
+      "institute": "British Council Sri Lanka",
+      "location": "Sri Lanka",
+      "year": "2024",
+      "type": "Part-time",
+      "description": "Part-time English course completed at the British Council Sri Lanka to strengthen professional communication and collaboration."
+    },
+    {
+      "id": "edu-3",
+      "qualification": "G.C.E. Advanced Level",
+      "institute": "KM/STR/Muslim Madhya Maha Vidyalaya National School, Sammanthurai",
+      "location": "Sammanthurai, Sri Lanka",
+      "year": "2023",
+      "description": "Completed G.C.E. Advanced Level education establishing foundational analytical and academic capabilities."
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "organization": "Brainiacs",
+      "role": "Trainee – IT / Digital Development",
+      "startDate": "Start date to be updated",
+      "endDate": "Present",
+      "location": "Sri Lanka",
+      "description": "Currently gaining practical experience at Brainiacs by working with IT, digital development and creative technology-related activities while improving technical and professional skills.",
+      "responsibilities": [
+        "Assist with IT and digital development tasks.",
+        "Work on website and software-related activities.",
+        "Support digital content and creative development activities.",
+        "Learn and apply modern development technologies.",
+        "Explore AI-assisted development tools.",
+        "Improve practical problem-solving skills.",
+        "Develop professional teamwork and communication skills."
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "GitHub",
+        "Visual Studio Code",
+        "AI Development Tools",
+        "Google Flow"
+      ]
+    }
+  ],
+  "skills": {
+    "programmingLanguages": [
+      "C",
+      "C#",
+      "C++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "CSS"
+    ],
+    "webDevelopment": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "React",
+      "Node.js",
+      "Responsive Web Design",
+      "Web Application Development"
+    ],
+    "database": [
+      "MySQL",
+      "Microsoft SQL Server",
+      "MongoDB",
+      "PostgreSQL",
+      "phpMyAdmin",
+      "SQL",
+      "Database Design",
+      "CRUD Operations"
+    ],
+    "frameworksAndLibraries": [
+      "Bootstrap",
+      ".NET / Windows Forms",
+      "PDO",
+      "Chart.js",
+      "React"
+    ],
+    "tools": [
+      "Visual Studio",
+      "Visual Studio Code",
+      "Git",
+      "GitHub",
+      "XAMPP",
+      "Figma",
+      "Postman",
+      "phpMyAdmin",
+      "Microsoft SQL Server",
+      "Google Flow",
+      "AI Development Tools"
+    ],
+    "mobile": [
+      "Flutter",
+      "Android",
+      "Mobile Application Development"
+    ],
+    "aiAndTechnology": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Generative AI",
+      "Google Flow",
+      "Generative AI Tools",
+      "AI-Assisted Development",
+      "AI-Powered Applications",
+      "AI-Assisted Software Development"
+    ],
+    "otherCompetencies": [
+      "Git & GitHub",
+      "Database Design",
+      "CRUD Operations",
+      "REST API Concepts",
+      "API Integration",
+      "Web Application Development",
+      "Responsive Web Design",
+      "Frontend Development",
+      "Backend Development",
+      "PHP & MySQL",
+      "C# Desktop Application Development",
+      "SQL Server",
+      "UI/UX Design",
+      "Debugging",
+      "Problem Solving",
+      "Software Development"
+    ]
+  },
+  "communityActivities": [
+    {
+      "organization": "Integrated Friends Development & Humanitarian Association (IFDHA)",
+      "role": "Member / Web Developer",
+      "started": "2020",
+      "location": "Sammanthurai, Sri Lanka",
+      "description": "A community-focused organization involved in humanitarian, social, community service and development activities.",
+      "activities": [
+        "Community service activities",
+        "Educational activities",
+        "Group events",
+        "Trips",
+        "Technology-related support",
+        "Organizational activities"
+      ]
+    }
+  ],
+  "interests": [
+    "Web Development",
+    "Learning New Technologies",
+    "Graphic Design",
+    "Exploring Artificial Intelligence",
+    "Creating Digital Content",
+    "Software Development"
+  ]
+}

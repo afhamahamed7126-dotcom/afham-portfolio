@@ -1,0 +1,213 @@
+[
+  {
+    "id": "smart-supermarket",
+    "title": "Smart Supermarket Management System",
+    "subtitle": "Desktop-based supermarket ERP & point-of-sale solution",
+    "categories": ["Desktop", "Academic"],
+    "type": "Individual / Academic",
+    "year": "2025",
+    "status": "Completed",
+    "badgeStatus": "Completed",
+    "description": "A desktop-based supermarket management application developed to manage supermarket products, categories, sellers, sales and billing in an organized digital system.",
+    "problem": "Helps reduce manual work and provides an organized way to manage supermarket products, sales and related information.",
+    "features": [
+      "Product Management & Cataloging",
+      "Category Hierarchy Management",
+      "Seller & Staff Access Management",
+      "Sales & Transaction Processing",
+      "Automated Billing & Invoice Generation",
+      "Product Information & Stock Tracking",
+      "Relational Database Connectivity",
+      "Robust CRUD Operations & Validation"
+    ],
+    "role": "Individual Developer - Responsible for designing and developing the complete application, implementing UI features, business logic, and integrating the SQL Server database.",
+    "techStack": {
+      "frontend": "Windows Forms",
+      "backend": "C# Application Logic",
+      "database": "Microsoft SQL Server",
+      "languages": ["C#"],
+      "frameworks": [".NET / Windows Forms"],
+      "tools": ["Visual Studio", "Microsoft SQL Server"]
+    },
+    "links": {
+      "github": "https://github.com/afhamahamed7126-dotcom/SMART-SUPER-MARKET-PROJECT",
+      "liveDemo": null,
+      "liveDemoText": "N/A – Desktop Application",
+      "video": null,
+      "videoText": "Coming Soon",
+      "documentation": null,
+      "documentationText": "Coming Soon",
+      "presentation": null,
+      "presentationText": "Coming Soon"
+    },
+    "media": {
+      "coverImage": "assets/images/projects/supermarket/cover.svg",
+      "screenshots": [
+        {
+          "src": "assets/images/projects/supermarket/cover.svg",
+          "caption": "Point of Sale & Inventory Dashboard"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Category & Stock Level Management View"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Seller Profiles & Permission Management"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Billing & Receipt Generation Module"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "SQL Server Financial Data Reports"
+        }
+      ]
+    }
+  },
+  {
+    "id": "student-companion",
+    "title": "Student Companion Web Application",
+    "subtitle": "Centralized academic hub for notes, events, schedules & Q&A",
+    "categories": ["Web", "Academic"],
+    "type": "Individual / Academic",
+    "year": "2026",
+    "status": "Ongoing",
+    "badgeStatus": "Ongoing",
+    "description": "A web-based student companion application designed to provide students with a centralized platform for organizing notes, assignments, timetable, events, reminders and academic questions.",
+    "problem": "Students often keep academic information such as notes, assignments, timetables and events in different places. This application brings important academic activities together in one centralized platform.",
+    "features": [
+      "Student Personalized Dashboard",
+      "Smart Notes Organization & Categorization",
+      "Assignment Tracking & Deadline Reminders",
+      "Interactive Timetable & Class Schedule",
+      "Academic Events & Deadlines Calendar",
+      "PDF & Lecture Notes Upload and Preview",
+      "Collaborative Student Q&A System",
+      "Analytics & Subject Progress Charts"
+    ],
+    "role": "Individual Developer - Responsible for project planning, UI/UX design, frontend development, backend architecture, and MySQL database integration.",
+    "techStack": {
+      "frontend": "HTML5, CSS3, JavaScript, Bootstrap",
+      "backend": "PHP (Modular Architecture)",
+      "database": "MySQL (PDO)",
+      "languages": ["HTML", "CSS", "JavaScript", "PHP"],
+      "frameworks": ["Bootstrap", "PDO", "Chart.js"],
+      "tools": ["XAMPP", "phpMyAdmin", "Visual Studio Code"]
+    },
+    "links": {
+      "github": null,
+      "githubText": "Coming Soon",
+      "liveDemo": null,
+      "liveDemoText": "Coming Soon",
+      "video": null,
+      "videoText": "Coming Soon",
+      "documentation": null,
+      "documentationText": "Coming Soon",
+      "presentation": null,
+      "presentationText": "Coming Soon"
+    },
+    "media": {
+      "coverImage": "assets/images/projects/student-companion/cover.svg",
+      "screenshots": [
+        {
+          "src": "assets/images/projects/student-companion/cover.svg",
+          "caption": "Student Portal Overview Dashboard"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Lecture Notes & PDF Document Viewer"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Assignment Tracking & Reminders"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Weekly Class Timetable Matrix"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Campus & Exam Calendar"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Peer Q&A Collaborative Forum"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ifdha-community",
+    "title": "IFDHA Community Website",
+    "subtitle": "Integrated Friends Development & Humanitarian Association Platform",
+    "categories": ["Web", "Community", "Personal"],
+    "type": "Personal / Community",
+    "year": "2026",
+    "status": "Ongoing",
+    "badgeStatus": "Ongoing",
+    "description": "A web-based community platform developed for IFDHA to organize member information, contributions, events, activities and community media.",
+    "problem": "Community information, member contributions, events and activity records can be difficult to organize when maintained through separate manual records and communication platforms. This website provides a centralized digital platform for organizing and presenting community information.",
+    "features": [
+      "Digital Member Directory & Profiles",
+      "Monthly Member Contribution Tracking",
+      "Monthly & Yearly Income / Expense Records",
+      "Humanitarian Events & Activities Feed",
+      "Community Service Documentation",
+      "Trip & Event Photo Gallery System",
+      "Admin Content & Member Management Portal",
+      "Public Announcements & News Desk"
+    ],
+    "role": "Web Developer - Leading end-to-end full stack web development, responsive design, data modeling, and administrative workflow automation.",
+    "techStack": {
+      "frontend": "HTML5, CSS3, Modern JavaScript",
+      "backend": "PHP",
+      "database": "MySQL",
+      "languages": ["HTML", "CSS", "JavaScript", "PHP"],
+      "frameworks": ["Vanilla Architecture"],
+      "tools": ["XAMPP", "phpMyAdmin", "Visual Studio Code"]
+    },
+    "links": {
+      "github": null,
+      "githubText": "Coming Soon",
+      "liveDemo": null,
+      "liveDemoText": "Coming Soon",
+      "video": null,
+      "videoText": "Coming Soon",
+      "documentation": null,
+      "documentationText": "Coming Soon",
+      "presentation": null,
+      "presentationText": "Coming Soon"
+    },
+    "media": {
+      "coverImage": "assets/images/projects/ifdha/cover.svg",
+      "screenshots": [
+        {
+          "src": "assets/images/projects/ifdha/cover.svg",
+          "caption": "IFDHA Association Public Portal"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Community Member Registry & Access"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Monthly Contribution Ledger"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Charity Event Announcements"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Social Mission Photographic Archives"
+        },
+        {
+          "src": "assets/images/placeholder-image.svg",
+          "caption": "Administrative Content Panel"
+        }
+      ]
+    }
+  }
+]

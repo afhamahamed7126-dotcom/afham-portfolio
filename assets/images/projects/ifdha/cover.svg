@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgI" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#061325"/>
+      <stop offset="60%" stop-color="#0b233a"/>
+      <stop offset="100%" stop-color="#040b17"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bgI)"/>
+  <rect x="60" y="50" width="1080" height="600" rx="16" fill="#081424" stroke="#163854" stroke-width="2"/>
+  <rect x="60" y="50" width="1080" height="46" rx="16" fill="#0d1f33"/>
+  <circle cx="95" cy="73" r="6" fill="#ef4444"/>
+  <circle cx="118" cy="73" r="6" fill="#f59e0b"/>
+  <circle cx="141" cy="73" r="6" fill="#10b981"/>
+  <text x="600" y="78" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">https://ifdha-community.org</text>
+  <rect x="100" y="120" width="1000" height="150" rx="12" fill="#0f2942" stroke="#1b4965" stroke-width="1.5"/>
+  <text x="140" y="170" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="24" font-weight="bold">IFDHA Community Portal</text>
+  <text x="140" y="200" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="16">Integrated Friends Development &amp; Humanitarian Association</text>
+  <text x="140" y="235" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="13">Sammanthurai • Sri Lanka • Established 2020 • Social Welfare &amp; Development</text>
+  <rect x="100" y="300" width="310" height="180" rx="10" fill="#0e2035" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="130" y="340" fill="#00f2fe" font-family="system-ui, sans-serif" font-size="18" font-weight="bold">Member Registry</text>
+  <text x="130" y="375" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="13">Digital directory of verified members, active roles, and contact channels.</text>
+  <text x="130" y="445" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Active Membership: 120+</text>
+  <rect x="445" y="300" width="310" height="180" rx="10" fill="#0e2035" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="475" y="340" fill="#10b981" font-family="system-ui, sans-serif" font-size="18" font-weight="bold">Contribution Audit</text>
+  <text x="475" y="375" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="13">Transparent monthly subscription logs, charity disbursements and audits.</text>
+  <text x="475" y="445" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Monthly Statements: 100% Tracked</text>
+  <rect x="790" y="300" width="310" height="180" rx="10" fill="#0e2035" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="820" y="340" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="18" font-weight="bold">Events &amp; Gallery</text>
+  <text x="820" y="375" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="13">Humanitarian relief, youth education programs, and community field trips.</text>
+  <text x="820" y="445" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Documented Missions: 35+</text>
+  <rect x="100" y="510" width="1000" height="80" rx="10" fill="#132742" stroke="#1f4268" stroke-width="1"/>
+  <text x="140" y="555" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">Centralized Web Administration</text>
+  <text x="440" y="555" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="13">PHP &amp; MySQL backend with role-based member &amp; content moderation.</text>
+</svg>
