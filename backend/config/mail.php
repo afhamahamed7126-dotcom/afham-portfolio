@@ -58,7 +58,7 @@ return [
     'smtp_port'     => (int) getEnvVar('SMTP_PORT', 587),
     'smtp_user'     => getEnvVar('SMTP_USERNAME', ''),
     'smtp_pass'     => getEnvVar('SMTP_PASSWORD', ''),
-    'mail_from'     => getEnvVar('MAIL_FROM', 'no-reply@afhamahamed.dev'),
+    'mail_from'     => getEnvVar('MAIL_FROM', 'no-reply@afhamahamed.com'),
     'mail_to'       => getEnvVar('MAIL_TO', 'afhamahamed7126@gmail.com'),
     'mail_from_name'=> getEnvVar('MAIL_FROM_NAME', 'Afham Portfolio Contact Form'),
 ];

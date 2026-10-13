@@ -123,7 +123,7 @@ When a visitor submits the contact form, an email is dispatched to `afhamahamed7
    SMTP_PORT=587
    SMTP_USERNAME=your-email@gmail.com
    SMTP_PASSWORD=your-google-app-password
-   MAIL_FROM=no-reply@afhamahamed.dev
+   MAIL_FROM=no-reply@afhamahamed.com
    MAIL_TO=afhamahamed7126@gmail.com
    MAIL_FROM_NAME="Afham Ahamed Portfolio"
    ```
